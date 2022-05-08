@@ -1,0 +1,3 @@
+[submodule "todo_app_client"]
+	path = todo_app_client
+	url = https://github.com/selfnutmeg/todo_app_client.git
